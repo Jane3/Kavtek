@@ -18,8 +18,9 @@ For the second card, an API endpoint containing a list of users is provided and 
     |        |__ DataTable.js
     |        |__ UsersChart.css
     |        |__ UsersChart.js
-    |    |__Sidebar.css
-    |    |__Sidebar.js
+    |    |__Sidebar
+    |        |__Sidebar.css
+    |        |__Sidebar.js
     |
     |__App.js
     |__App.css

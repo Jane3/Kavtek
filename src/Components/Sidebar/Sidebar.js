@@ -2,7 +2,7 @@
 
 //import useState hook to create menu collapse state
 import React, { useState } from "react";
-import Logo from '../Images/Avatar.png';
+import Logo from '../../Images/Avatar.png';
 
 //import react pro sidebar components
 import {

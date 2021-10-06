@@ -3,7 +3,7 @@ import React, {useEffect, useState} from 'react';
 import axios from 'axios';
 import './Profile.css';
 import Logo from '../../Images/Avatar.png';
-import Sidebar from '../../Components/Sidebar.js';
+import Sidebar from '../Sidebar/Sidebar.js';
 import { format } from "date-fns";
 
 function Profile(){
